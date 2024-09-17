@@ -1,0 +1,247 @@
+{
+  "name": "Tyler Tessmann",
+  "title": "Web Developer",
+  "contact": {
+    "address": {
+      "display": "Chicago, IL 60602",
+      "full": "5449 N Wayne Ave Chicago IL 60640"
+    },
+    "phone": "312.315.4252",
+    "email": "tyelrx@gmail.com",
+    "social": [
+      {
+        "platform": "LinkedIn",
+        "text": "in/tylertessmann",
+        "link": "https://www.linkedin.com/in/tylertessmann"
+      }
+    ]
+  },
+  "summary": "As a senior frontend engineer, I specialize in crafting high-performance, maintainable, and scalable user interfaces. My expertise in content management platforms like AEM and Contentful, combined with extensive experience in React.js, Redux, and React Native, allows me to deliver exceptional digital experiences. My experience in e-commerce, particularly in regulated industries like healthcare, demonstrates my ability to develop solutions that meet stringent standards. I am committed to pushing the boundaries of modern web technologies while leading teams toward success. Let's build the next generation of digital products together.",
+  "workExperience": [
+    {
+      "company": "Critical Mass",
+      "title": "Senior Web Developer | GoArmy Account (US Army)",
+      "location": "Chicago",
+      "startDate": "2023-10",
+      "endDate": "Current",
+      "responsibilities": [
+        "Developed custom AEM components used throughout the Army's 400+ pages including integrating third-party APIs.",
+        "Utilized experience fragments, AEM style systems, and Tailwinds to ensure consistency and efficiency in content delivery.",
+        "Implemented key WCAG and A11y improvements to multiple components to better the user experience across devices, including animation best practices like reduce motion.",
+        "Ensured seamless transition between design and development phases by working closely with UI/UX designers and marketing science (analytics).",
+        "Mentored junior developers, reviewed PRs and shared industry best practices to fostering a culture of continuous learning.",
+        "Implemented improved team processes, including agile workflow methodologies like sprint planning, backlog refinement, and story pointing.",
+        "Conduct weekly releases via Jenkins and project management tracking via Jira.",
+        "Delivered high-quality documentation for developers, administrators, and end-users to support the ongoing success of projects.",
+        "Interfaced Cypress with Jenkins and later GitLab CI/CD pipelines to ensure a robust automated testing environment."
+      ]
+    },
+    {
+      "company": "Bounteous",
+      "title": "Senior Frontend Developer | AEM Consultant",
+      "location": "Chicago IL",
+      "startDate": "2020-05",
+      "endDate": "2023-10",
+      "responsibilities": [
+        "Consultant for multiple projects across many verticals including Abiomed, Sanmar Retail, Better Business Bureau, Reynolds Tobacco, Marucci sports and others.",
+        "Launched Impella, a mobile app for Abiomed on iOS / Android (React Native / Drupal).",
+        "Managed multiple Redux actions/sagas and offline asset management to ensure a seamless experience both online and offline.",
+        "Worked closely with clients to gather requirements and translate them into technical specifications for in-app healthcare assessments used by professionals, and then executed those into a working mobile architecture that could grow.",
+        "Integrated Auth0 / Okta authentication as a mobile identity provider with user account data leveraging Hubspot CRM.",
+        "Themed components with Native Base.",
+        "Worked on launching Sanmar's latest e-commerce site called 'Presshall' (Vue Storefront / Commerce Tools).",
+        "Collaborated with UX / analytic teams to integrate design language across platforms and optimize the checkout user journey.",
+        "Engaged in bug fixes, code reviews, and mentoring junior developers during weekly department office hours."
+      ]
+    },
+    {
+      "company": "ICF Next",
+      "title": "Senior Frontend Developer",
+      "location": "Chicago, IL",
+      "startDate": "2019-02",
+      "endDate": "2020-05",
+      "responsibilities": [
+        "Built custom AEM components utilized across various projects.",
+        "Employed experience fragments, AEM style systems, and other key AEM concepts to ensure consistency and scalability in content management.",
+        "Worked on the Amtrak Guest Rewards platform, contributing to its frontend development and enhancing user experience.",
+        "Developed reusable UI components using modern JavaScript frameworks like React, Vue, and Angular, increasing productivity of the entire development team.",
+        "Streamlined codebase by refactoring and modularizing CSS, HTML, and JavaScript files."
+      ]
+    },
+    {
+      "company": "Leo Burnett / ARC",
+      "title": "Sr Motion Designer",
+      "location": "Chicago, IL",
+      "startDate": "2014-01",
+      "endDate": "2019-02",
+      "responsibilities": [
+        "Senior engineer responsible for the development of HTML5 deliverables and video.",
+        "Work regularly involved different accounts in an agency setting as a SME for ad tech platforms like Sizmek, Pointroll, and Doubleclick.",
+        "Responsibilities regularly included scoping the technical feasibility of projects and streamlining internal processes."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Integrated Marketing Communications",
+      "institution": "Roosevelt University",
+      "location": "Chicago, IL",
+      "startDate": "2010-09",
+      "endDate": "2014-05"
+    }
+  ],
+  "techSkills": [
+    {
+      "category": "Languages & Frameworks",
+      "priority": "1",
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "SASS",
+        "LESS",
+        "Bootstrap",
+        "Tailwind CSS",
+        "JavaScript",
+        "TypeScript",
+        "ES6+",
+        "React",
+        "React Native / Expo",
+        "Vue.js",
+        "Angular",
+        "Gatsby",
+        "Next.js",
+        "Nuxt.js"
+      ]
+    },
+    {
+      "category": "API & Data Handling",
+      "priority": "2",
+      "skills": [
+        "GraphQL",
+        "RESTful APIs",
+        "Web APIs",
+        "Axios",
+        "Fetch",
+        "Postman",
+        "Amazon Web Services (AWS)",
+        "Apollo Client"
+      ]
+    },
+    {
+      "category": "State Management",
+      "priority": "3",
+      "skills": [
+        "Redux",
+        "Context API",
+        "Zustand",
+        "Vuex",
+        "Vue Composition API"
+      ]
+    },
+    {
+      "category": "Authentication & Security",
+      "priority": "4",
+      "skills": ["Auth0", "Okta", "JWT (JSON Web Tokens)"]
+    },
+    {
+      "category": "Build Tools & Package Managers",
+      "priority": "5",
+      "skills": ["NPM", "Yarn", "Webpack", "Babel", "Vite"]
+    },
+    {
+      "category": "Version Control & CI/CD",
+      "priority": "6",
+      "skills": ["Git", "GitHub", "GitLab", "Bitbucket", "Jenkins"]
+    },
+    {
+      "category": "CMS & E-commerce",
+      "priority": "7",
+      "skills": [
+        "AEM / AEM Sites / Target",
+        "Contentful",
+        "Magento",
+        "Hybris",
+        "CommerceTools",
+        "Templating (Handlebars, Liquid)",
+        "Product / Inventory Optimization",
+        "Theming / Customization",
+        "Content Authoring",
+        "SEO / Event Analytics"
+      ]
+    },
+    {
+      "category": "Testing",
+      "priority": "8",
+      "skills": [
+        "Unit Testing with Jest and React Testing Library",
+        "End-to-End (E2E) Testing with Cypress",
+        "Mocking and Stubbing in Unit Tests",
+        "Cross-browser and Cross-platform Testing",
+        "Test-Driven Development (TDD) Practices",
+        "Code Coverage Analysis and Improvement",
+        "Regression Testing and Bug Tracking",
+        "Snapshot Testing for UI Components",
+        "Accessibility Testing (WCAG Compliance) : Axe"
+      ]
+    },
+    {
+      "category": "Others",
+      "priority": "9",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "Three.js",
+        "A-Frame",
+        "React Three Fiber",
+        "8th Wall",
+        "Docusaurus",
+        "Confleunce / JIRA"
+      ]
+    },
+    {
+      "category": "Tools & Utilities",
+      "priority": "10",
+      "skills": [
+        "Vite",
+        "Webpack",
+        "Storybook",
+        "Figma",
+        "Adobe Illustrator",
+        "Photoshop",
+        "Sketch"
+      ]
+    },
+
+    {
+      "category": "AEM",
+      "priority": "0",
+      "skills": [
+        "AEM Sites",
+        "AEM Target",
+        "Custom Component",
+        "Sightly/HTL",
+        "Apache Sling Development",
+        "CRX/CRXDE Proficiency",
+        "Responsive Design",
+        "Style Systems",
+        "AEM Policies",
+        "AEM ClientLibs"
+      ]
+    },
+    {
+      "category": "AEM continued",
+      "priority": "0",
+      "skills": [
+        "Testing and Debugging",
+        "Experience Fragments",
+        "Content Fragments",
+        "Authoring Dialogs",
+        "Page Properties",
+        "Tagging",
+        "Metadata",
+        "Headless AEM",
+        "Content Authoring"
+      ]
+    }
+  ]
+}

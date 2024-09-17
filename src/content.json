@@ -1,0 +1,49 @@
+{
+  "name": "Tyler Tessmann",
+  "title": "Web Developer",
+  "contact": {
+    "location": "Chicago, IL 60602",
+    "phone": "312.315.4252",
+    "email": "tyelrx@gmail.com",
+    "linkedin": "linkedin.com/in/tylertessmann"
+  },
+  "profilePhoto": "https://assets.zety.com/blobimages/zty/rwz/desktop/images/rect-no-image.jpg",
+  "summary": "As a frontend engineer specializing in React development, I excel in crafting scalable and performant user interfaces...",
+  "workHistory": [
+    {
+      "dates": "2023-10 - Current",
+      "title": "Senior Web Developer | GoArmy Account (US Army)",
+      "company": "Critical Mass",
+      "location": "Chicago",
+      "responsibilities": [
+        "Developed custom AEM components used throughout the Army's 400+ pages...",
+        "Utilized experience fragments, AEM style systems, and Tailwinds to ensure consistency and efficiency in content delivery...",
+        "...and more"
+      ]
+    },
+    {
+      "dates": "2020-05 - 2023-10",
+      "title": "Senior Frontend Developer | AEM Consultant",
+      "company": "Bounteous",
+      "location": "Chicago IL",
+      "responsibilities": [
+        "Launched Impella, a mobile app for Abiomed on iOS / Android (React Native / Drupal)...",
+        "Managed multiple Redux actions/sagas and offline asset management to ensure a seamless experience both online and offline...",
+        "...and more"
+      ]
+    }
+    // Add more work items as needed
+  ],
+  "techSkills": {
+    "languagesFrameworks": ["HTML5", "CSS3", "JavaScript", "React"],
+    "tools": ["Webpack", "Babel", "Vite"],
+    "testing": ["Jest", "Cypress"],
+    "versionControl": ["Git", "GitHub", "GitLab"]
+  },
+  "education": {
+    "degree": "Bachelor of Science",
+    "program": "Integrated Marketing Communications",
+    "school": "Roosevelt University",
+    "location": "Chicago"
+  }
+}

@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  @apply p-0 md:pl-20 xl:pl-0;
+}
+
+body {
+  font-family: "Gothic A1", sans-serif;
+  background-color: #f8f9fa;
+  color: #343a40;
+  margin: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+@media print {
+  @page {
+    size: auto;
+    margin: 0mm;
+    margin-top: 1cm;
+
+    :first-child::before {
+      content: "";
+      display: block;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 50px;
+      background-color: black;
+    }
+  }
+
+  @page :first {
+    size: auto;
+    margin-top: 0;
+
+    :first-child::before {
+      display: none;
+    }
+  }
+
+  body {
+    background-color: #f8f9fa;
+    -webkit-print-color-adjust: exact;
+    color-adjust: exact;
+  }
+}
